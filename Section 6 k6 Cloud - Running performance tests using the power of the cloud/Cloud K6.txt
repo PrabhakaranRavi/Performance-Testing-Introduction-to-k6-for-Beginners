@@ -1,0 +1,11 @@
+https://grafana.com/products/cloud/k6/
+
+Create account and Login using gmail
+
+Need to login for cloud running
+
+https://alexandersupertramp96.grafana.net/a/k6-app/settings/api-token - Get the token
+
+https://grafana.com/docs/grafana-cloud/k6/get-started/run-cloud-tests-from-the-cli/
+
+k6 run 69_Running_K6_Locally_And_Exporting_The_Results_To_The_Cloud.js.js -o cloud

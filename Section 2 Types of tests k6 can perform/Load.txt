@@ -1,0 +1,9 @@
+1.Like any real situaton,
+We go Ramp up the users from slowy until we reach the desired VU'S/Throughput
+then we stay there for 80% of the time
+
+then we slowly ramp down the users 
+
+Ramp -Up: Slowly and by 10% of the duration we will reach desired state
+
+Ramp -Down: Slowly and by 10% of the duration we will decrease desired state to minimum

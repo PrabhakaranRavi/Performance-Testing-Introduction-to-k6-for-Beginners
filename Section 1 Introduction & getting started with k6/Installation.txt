@@ -1,0 +1,11 @@
+1.Go to https://k6.io/docs/get-started/installation/#windows
+
+2.Click on Alternatively, you can download and run the latest official installer.
+
+3.Then Install it.
+
+For Verification:
+	In Power shell, Type K6
+	If you see logo, then it is properly installed.
+
+Run Command: k6 run filename.js
