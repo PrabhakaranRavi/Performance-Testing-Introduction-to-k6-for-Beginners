@@ -1,0 +1,14 @@
+k6 run script. js -- vus 1 -- duration 10s -- iterations 1
+
+https://k6.io/docs/using-k6/k6-options/reference/#insecure-skip-tls-verify
+
+https://badssl.com/
+
+k6 run script. js -insecure-skip-tls-verify
+
+k6 run script. js -- summary-export=result. json
+
+k6 run script. js -out json=full_results. json
+
+
+https://k6.io/docs/using-k6/k6-options/
