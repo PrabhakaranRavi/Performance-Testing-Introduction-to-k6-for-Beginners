@@ -1,6 +1,6 @@
 # Performance Testing with k6
 
-Welcome to the **Performance Testing with k6** repository! This project is designed to help beginners learn how to use k6 to write performance tests for web applications and APIs. The repository covers load testing, stress testing, spike testing, and more.
+Welcome to my **Performance Testing with k6** study notes! This repository is where I, as a beginner learner, am recording what I’m learning about performance testing for web applications and APIs using k6. The focus is on understanding the basics of performance testing, writing tests, and analyzing results.
 
 ## Table of Contents
 
@@ -12,29 +12,30 @@ Welcome to the **Performance Testing with k6** repository! This project is desig
 - [Running Tests](#running-tests)
 - [Understanding Metrics](#understanding-metrics)
 - [Best Practices](#best-practices)
+- [Resources](#resources)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-This project is inspired by the Udemy course "Performance Testing: Introduction to k6 for Beginners" created by Valentin Despa. It is intended to give you a practical introduction to performance testing using k6.
+This repository serves as a collection of my notes and scripts as I explore performance testing with k6. It's intended to help me (and hopefully others) get familiar with performance testing concepts, how to write tests with k6, and how to analyze the results.
 
 ## Features
 
-- **Understand Performance Testing Basics**: Learn the core concepts of performance testing.
-- **Write Scripts with k6**: Create performance tests using the k6 scripting language.
-- **Create Different Types of Tests**: Build load tests, stress tests, and spike tests.
-- **Understand Performance-Related Metrics**: Gain insights into key performance metrics.
-- **Write Checks/Assertions**: Validate your application's behavior under load.
-- **Define Thresholds**: Set performance expectations and validate them during tests.
+- **Performance Testing Basics**: Learn the core concepts of performance testing.
+- **Writing Scripts with k6**: Create performance tests using the k6 scripting language.
+- **Types of Tests**: Explore load tests, stress tests, and spike tests.
+- **Understanding Performance Metrics**: Gain insights into key performance metrics.
+- **Checks and Assertions**: Validate application behavior under load.
+- **Defining Thresholds**: Set performance expectations and validate them during tests.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed [k6](https://k6.io/docs/getting-started/installation/).
-- You are familiar with basic JavaScript concepts.
-- You have a web application or API to test.
+- [k6](https://k6.io/docs/getting-started/installation/) installed on your system.
+- Basic understanding of JavaScript.
+- Access to a web application or API for testing. You can use [test.k6.io](https://test.k6.io/) to practice.
 
 ## Getting Started
 
