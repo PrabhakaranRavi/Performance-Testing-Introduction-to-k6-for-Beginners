@@ -20,6 +20,8 @@ Welcome to my **Performance Testing with k6** study notes! This repository is wh
 
 This repository serves as a collection of my notes and scripts as I explore performance testing with k6. It's intended to help me (and hopefully others) get familiar with performance testing concepts, how to write tests with k6, and how to analyze the results.
 
+I’m also following the [Udemy course on k6 Load Testing and Performance Testing](https://www.udemy.com/course/k6-load-testing-performance-testing/?kw=k6&src=sac&couponCode=ACCAGE0923) by **Valentin Despa**, which has been an excellent resource.
+
 ## Features
 
 - **Performance Testing Basics**: Learn the core concepts of performance testing.
