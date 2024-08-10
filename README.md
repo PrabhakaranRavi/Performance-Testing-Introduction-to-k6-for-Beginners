@@ -1,6 +1,6 @@
 # Performance Testing with k6
 
-Welcome to my **Performance Testing with k6** study notes! This repository is where I, as a beginner learner, am recording what I’m learning about performance testing for web applications and APIs using k6. The focus is on understanding the basics of performance testing, writing tests, and analyzing results.
+Welcome to my **Performance Testing with k6** study notes! This repository is where I, as a learner, am recording what I’m learning about performance testing for web applications and APIs using k6. The focus is on understanding the basics of performance testing, writing tests, and analyzing results.
 
 ## Table of Contents
 
